@@ -9,7 +9,6 @@ To write a program to predict the profit of a city using the linear regression m
 
 ## Algorithm
 
-
 1. Initialize w, b, learning rate and dataset.
 
 2.Normalize input and output values.
